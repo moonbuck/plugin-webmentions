@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "title": "Moondeer's Webmentions",
+    "description": "Plugin for injecting Webmention.io.",
+    "includes": ["webmention-links.html"]
+}
